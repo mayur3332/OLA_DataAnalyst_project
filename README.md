@@ -68,15 +68,4 @@ Below is an example of how the dataset is structured:
 2. Access the Power BI report file and dataset for detailed exploration.  
 3. Use SQL scripts for custom queries on the dataset.  
 
----
 
-## 📧 **Contact**  
-If you have any questions, suggestions, or would like to collaborate, feel free to reach out:  
-- **Email**: mayurkakade289@gmail.com
-
-
----
-
-### ⭐ **If you found this project useful, don’t forget to star the repository!**  
-
---- 
