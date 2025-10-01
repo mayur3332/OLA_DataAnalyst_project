@@ -72,8 +72,8 @@ Below is an example of how the dataset is structured:
 
 ## 📧 **Contact**  
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out:  
-- **Email**: satyamgupta1194843@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/satyam-gupta-aa92bb220/ 
+- **Email**: mayurkakade289@gmail.com
+
 
 ---
 
